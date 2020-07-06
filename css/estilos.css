@@ -1,0 +1,22 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.container{
+    width: 90%;
+}
+
+.link{
+   /* display: flex; */
+   text-align: left;
+}
+
+.logo-perfil{
+ 
+}
+
+.logo{
+    padding-top: 5px;
+}
